@@ -1,0 +1,4 @@
+Fiesta,20000,1
+Focus,25000,2
+Fusion,30000,3
+Mondeo,35000,4
